@@ -30,7 +30,7 @@ const Contact = () => {
   };
 
   return (
-    <div className="contact-form">
+    <div className="contact-form" id="contactDiv">
       <div className="w-left">
         <div className="awesome">
           <span>Get In Touch</span>
