@@ -14,6 +14,7 @@
 .n-name {
   font-size: 1.3rem;
   font-weight: bold;
+  font-family: sans-serif;
 }
 
 .n-right {
@@ -41,6 +42,7 @@
 
 .n-button {
   flex: 2;
+  font-family: sans-serif;
 }
 
 

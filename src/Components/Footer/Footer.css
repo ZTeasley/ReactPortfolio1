@@ -5,6 +5,9 @@
     margin-top: -10rem;
     position: relative;
 }
+span {
+    font-family: sans-serif;
+}
 
 .f-content {
     position: absolute;
